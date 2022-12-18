@@ -4,4 +4,4 @@
  * **Pandas** para analisar de forma descritiva.
  * Testes de hipótese com o **ranksums**
 
-Curso da Alura  Data Visualization: explorando com Seaborn com o instrutor:Guilherme Lima
+Curso da Alura  Data Visualization: explorando com Seaborn com o instrutor: Guilherme Lima
